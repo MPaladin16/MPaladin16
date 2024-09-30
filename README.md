@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **MPaladin16/MPaladin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 My name is Mateo
-## 🧠 I’m interested in VR/AR/XR, love outdoor activites and sports.
-## 📚 I’m currently writing my master's thesis in computer sciences at FER;
+- 👋 My name is Mateo
+- 🧠 I’m interested in VR/AR/XR, love outdoor activites and sports.
+-  📚 I’m currently writing my master's thesis in computer sciences at FER;
 
 
