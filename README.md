@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🙋‍♂️ My name is Mateo
-- 🧠 I’m interested in VR/AR/XR, love outdoor activites and sports.
+- 🧠 I’m interested in VR/AR/XR, outdoor activites and all kinds of sports.
 - 📚 I’m currently writing my master's thesis in computer sciences at FER;
 
 
